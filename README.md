@@ -1,6 +1,6 @@
-# tweet_eval_484
+# super_tweet_eval_484
 
-Evaluates tweet_eval tasks on the latest large language models as of April 2025.
+Evaluates super_tweeteval tasks on the latest large language models as of May 2025.
 
 Install dependencies:
 `pip install -r requirements.txt`
